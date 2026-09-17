@@ -4,6 +4,11 @@
 
 Versão estável do bridge de guitarra Wii para Windows.
 
+Grande demais pro Github pelo visto
+https://drive.google.com/file/d/1pjbkPTspSNKcKJMD5KpeVmxLs938I3x4/view?usp=drive_link
+
+aproveitem
+
 ## Modos de saída
 
 ### Modo Guitarra
